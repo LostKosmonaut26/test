@@ -1,0 +1,13 @@
+C:\Source\TestJWT\bin\Debug\TestJWT.exe.config
+C:\Source\TestJWT\bin\Debug\TestJWT.exe
+C:\Source\TestJWT\bin\Debug\TestJWT.pdb
+C:\Source\TestJWT\bin\Debug\Newtonsoft.Json.dll
+C:\Source\TestJWT\bin\Debug\Newtonsoft.Json.xml
+C:\Source\TestJWT\obj\Debug\TestJWT.csproj.AssemblyReference.cache
+C:\Source\TestJWT\obj\Debug\TestJWT.Form1.resources
+C:\Source\TestJWT\obj\Debug\TestJWT.Properties.Resources.resources
+C:\Source\TestJWT\obj\Debug\TestJWT.csproj.GenerateResource.cache
+C:\Source\TestJWT\obj\Debug\TestJWT.csproj.CoreCompileInputs.cache
+C:\Source\TestJWT\obj\Debug\TestJWT.csproj.Up2Date
+C:\Source\TestJWT\obj\Debug\TestJWT.exe
+C:\Source\TestJWT\obj\Debug\TestJWT.pdb
